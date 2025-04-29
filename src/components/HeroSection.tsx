@@ -79,7 +79,6 @@ const HeroSection: React.FC = () => {
                 style={{
                   top: "50%",
                   left: "50%",
-                
                 }}
                 initial={{ y: 20 }}
                 animate={{ y: [0, -10, 0] }}
