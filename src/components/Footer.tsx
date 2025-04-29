@@ -17,7 +17,7 @@ const Footer: React.FC = () => {
             transition={{ duration: 0.5 }}
           >
             <h3 className="text-xl font-bold mb-4 bg-gradient-to-r from-sentinel-blue-light to-sentinel-purple-light bg-clip-text text-transparent">
-              Uptime Sentinel
+              PingPal
             </h3>
             <p className="text-sentinel-gray-light mb-4 max-w-md">
               Smart, reliable server monitoring to keep your services up and your customers happy.
@@ -70,7 +70,7 @@ const Footer: React.FC = () => {
         </div>
         
         <div className="mt-12 pt-8 border-t border-sentinel-purple/20 text-center text-sentinel-gray-light text-sm">
-          <p>© {currentYear} Uptime Sentinel. All rights reserved.</p>
+          <p>© {currentYear} PingPal. All rights reserved.</p>
         </div>
       </div>
     </footer>

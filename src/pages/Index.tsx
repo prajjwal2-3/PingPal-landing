@@ -37,7 +37,7 @@ const Index = () => {
             <div className="w-8 h-8 rounded-full bg-gradient-to-r from-sentinel-purple to-sentinel-blue flex items-center justify-center mr-3">
               <div className="w-3 h-3 rounded-full bg-white animate-pulse-light" />
             </div>
-            <span className="text-lg font-bold">Uptime Sentinel</span>
+            <span className="text-lg font-bold">PingPal</span>
           </div>
           
           <nav className="hidden md:flex items-center space-x-8">
