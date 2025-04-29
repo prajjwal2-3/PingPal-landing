@@ -89,7 +89,7 @@ const HeroSection: React.FC = () => {
                   ease: "easeInOut",
                 }}
               >
-                <img src={server} alt="server" />
+                <img src="./Server.svg" alt="server" />
               </motion.div>
             </div>
           </motion.div>
